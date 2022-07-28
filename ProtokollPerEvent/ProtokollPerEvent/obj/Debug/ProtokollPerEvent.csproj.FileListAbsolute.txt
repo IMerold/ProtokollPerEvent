@@ -1,0 +1,8 @@
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\bin\Debug\ProtokollPerEvent.exe.config
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\bin\Debug\ProtokollPerEvent.exe
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\bin\Debug\ProtokollPerEvent.pdb
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\obj\Debug\ProtokollPerEvent.csproj.AssemblyReference.cache
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\obj\Debug\ProtokollPerEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\obj\Debug\ProtokollPerEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\obj\Debug\ProtokollPerEvent.exe
+C:\Users\Ingo.Merold\source\repos\ProtokollPerEvent\ProtokollPerEvent\obj\Debug\ProtokollPerEvent.pdb
